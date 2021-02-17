@@ -1,0 +1,24 @@
+textarea {
+    min-height: 400px;
+}
+.box{
+  width: 100%;
+  padding: 4px;
+  border-style: solid;
+  margin-bottom: 3px;
+  border-radius: 2px;
+}
+.receive{
+  float: left;
+}
+.time{
+  float: right;
+  /* float: right; */
+}
+
+ .sub{
+  float:right;
+  margin-right:300px;
+
+
+}
